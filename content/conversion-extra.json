@@ -1,0 +1,194 @@
+{
+  "payroll_calculator_online": {
+    "ar": [
+      "أدخل راتبك الإجمالي ومعدل الضريبة",
+      "اضغط «احسب» لمراجعة الاستقطاعات وصافي الراتب",
+      "نزّل إيصال الدفع PDF القابل للطباعة"
+    ],
+    "en": [
+      "Enter your gross pay and tax rate",
+      "Click “Calculate” to view deductions and net pay",
+      "Download a printable PDF pay stub"
+    ]
+  },
+  "online_time_tracking": {
+    "ar": [
+      "أنشئ مشروعًا أو مهمة جديدة",
+      "ابدأ المؤقت أو سجّل الساعات يدويًا",
+      "صدّر جدول الساعات بتنسيق CSV أو PDF"
+    ],
+    "en": [
+      "Create a new project or task",
+      "Start the timer or log hours manually",
+      "Export the timesheet as CSV or PDF"
+    ]
+  },
+  "time_zone_meeting_planner": {
+    "ar": [
+      "أضف مناطق زمنية أو مواقع المشاركين",
+      "شاهد الأوقات المتاحة واختر الوقت الأنسب",
+      "انسخ رابط الدعوة أو أضف الاجتماع إلى التقويم"
+    ],
+    "en": [
+      "Add participants’ time zones or cities",
+      "View overlap grid and pick the best slot",
+      "Copy the invite link or add to calendar"
+    ]
+  },
+  "resume_ats_checker": {
+    "ar": [
+      "حمِّل سيرتك الذاتية بصيغة PDF أو DOCX",
+      "اضغط «تحليل» لعرض درجة توافق ATS والكلمات المفتاحية",
+      "اتّبع نصائح التحسين وحمِّل النسخة المُحسَّنة"
+    ],
+    "en": [
+      "Upload your résumé as PDF or DOCX",
+      "Click “Analyze” for ATS score and keywords",
+      "Apply the tips and download the optimized file"
+    ]
+  },
+  "invoice_ocr_receipt_scanner": {
+    "ar": [
+      "ارفع صورة أو PDF للفاتورة/الإيصال",
+      "اضغط «استخراج البيانات» وانتظر ثوانٍ",
+      "نزّل البنود في ملف Excel أو CSV"
+    ],
+    "en": [
+      "Upload the invoice or receipt PDF/image",
+      "Click “Extract Data” and wait a few seconds",
+      "Download line items to Excel or CSV"
+    ]
+  },
+  "kpi_dashboard_software": {
+    "ar": [
+      "حمِّل ملف Excel أو اربط مصدر بيانات API",
+      "اختر المقاييس وأنشئ المخططات التفاعلية",
+      "شارك لوحة المؤشرات أو ضمّنها في موقعك"
+    ],
+    "en": [
+      "Upload an Excel sheet or connect an API source",
+      "Select metrics and build interactive charts",
+      "Share or embed the KPI dashboard"
+    ]
+  },
+  "privacy_policy_generator": {
+    "ar": [
+      "أدخل اسم الموقع وطبيعة جمع البيانات",
+      "اضغط «توليد السياسة» خلال ثوانٍ",
+      "نزّل النص كـ ‎HTML‎ أو PDF أو انسخه"
+    ],
+    "en": [
+      "Enter site name and data-collection details",
+      "Click “Generate Policy” in seconds",
+      "Download as HTML/PDF or copy the text"
+    ]
+  },
+  "iso_27001_checklist": {
+    "ar": [
+      "اختر نطاق نظام إدارة أمن المعلومات",
+      "اضغط «إنشاء قائمة» لعرض عناصر التدقيق",
+      "نزّل القائمة كملف Excel وابدأ التتبع"
+    ],
+    "en": [
+      "Select your ISMS scope",
+      "Click “Generate Checklist” to view audit items",
+      "Download the Excel sheet and start tracking"
+    ]
+  },
+  "value_stock_screener": {
+    "ar": [
+      "حدد البورصة ومعايير القيمة (P/B, P/E)",
+      "اضغط «ابحث» لإظهار الأسهم المطابقة",
+      "احفظ القائمة أو صدّرها كـ CSV"
+    ],
+    "en": [
+      "Choose exchange and value filters (P/B, P/E)",
+      "Click “Search” to list matching stocks",
+      "Save the watch-list or export as CSV"
+    ]
+  },
+  "web_accessibility_checker": {
+    "ar": [
+      "أدخل عنوان URL للموقع",
+      "اضغط «فحص» لتحليل أخطاء WCAG/ADA",
+      "نزّل تقرير PDF مع توصيات الإصلاح"
+    ],
+    "en": [
+      "Paste the site URL",
+      "Click “Scan” to analyse WCAG/ADA issues",
+      "Download the PDF report with fixes"
+    ]
+  },
+  "carbon_footprint_calculator": {
+    "ar": [
+      "املأ بيانات الطاقة والسفر والغذاء",
+      "اضغط «احسب البصمة» وانتظر النتائج",
+      "استعرض النصائح ونزّل تقرير PDF"
+    ],
+    "en": [
+      "Fill in energy, travel and food details",
+      "Click “Calculate Footprint” for results",
+      "Review reduction tips and download PDF"
+    ]
+  },
+  "debt_payoff_calculator": {
+    "ar": [
+      "أدخل أرصدة الديون وأسعار الفائدة",
+      "اختر طريقة كرة الثلج أو الانهيار واضغط «احسب»",
+      "شاهد تاريخ الانتهاء ومجموع الفوائد"
+    ],
+    "en": [
+      "Enter debt balances and interest rates",
+      "Select snowball or avalanche and click “Calculate”",
+      "See payoff date and total interest"
+    ]
+  },
+  "electronic_signature_creator": {
+    "ar": [
+      "اكتب اسمك أو ارسم التوقيع",
+      "اضغط «إنشاء» لإنشاء التوقيع الرقمي",
+      "نزّله كصورة PNG أو ملف SVG"
+    ],
+    "en": [
+      "Type your name or draw the signature",
+      "Click “Create” to generate the e-signature",
+      "Download as PNG or SVG"
+    ]
+  },
+  "shipping_label_generator": {
+    "ar": [
+      "أدخل عنوان المرسل والمرسل إليه",
+      "اضغط «إنشاء ملصق» وحدد شركة الشحن",
+      "نزّل الملصق PDF جاهز للطباعة"
+    ],
+    "en": [
+      "Enter sender and recipient addresses",
+      "Click “Generate Label” and choose carrier",
+      "Download the print-ready PDF label"
+    ]
+  },
+  "board_meeting_minutes_template": {
+    "ar": [
+      "اختر تنسيق Word أو Google Docs",
+      "اضغط «تنزيل القالب» للحصول على الملف",
+      "املأ جدول الأعمال والقرارات وشارك المحضر"
+    ],
+    "en": [
+      "Select Word or Google Docs format",
+      "Click “Download Template” to get the file",
+      "Fill agenda, resolutions and share the minutes"
+    ]
+  },
+  "pricing_intelligence_software": {
+    "ar": [
+      "أضف رابط منتجك أو ملف CSV للأسعار",
+      "اضغط «بدء المراقبة» لتحليل المنافسين",
+      "تلّق تنبيهات وتوصيات تسعير ذكية في الوقت الحقيقي"
+    ],
+    "en": [
+      "Add your product URL or price CSV",
+      "Click “Start Monitoring” to analyse competitors",
+      "Receive real-time alerts and smart price suggestions"
+    ]
+  }
+}
