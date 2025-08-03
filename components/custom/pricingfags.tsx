@@ -1,7 +1,7 @@
 
 
 'use client'
-import { pricingfaqs } from "./mock-data";
+// import { pricingfaqs } from "./mock-data";
 import { XIcon } from "lucide-react";
 import { useCallback, useState } from "react";
 
@@ -18,7 +18,7 @@ export const PricingFaqs = () => {
                 className={' max-w-7xl mx-auto py-5 px-5 md:py-20 md:px-10 grid grid-cols-1 sm:grid-cols-2 gap-6 align-middle'}>
                 <h1 className={'text-white text-2xl font-[800]'}>الأسئلة المتكررة</h1>
                 
-                <div>
+                {/* <div>
                     {pricingfaqs.map(faq => (
                         <div onClick={() => toggle(faq.id)} key={faq.id}
                              className={'py-3 text-white group cursor-pointer'}>
@@ -32,7 +32,7 @@ export const PricingFaqs = () => {
                             <p className={active.includes(faq.id) ? 'max-h-[1000px] block text-[#cccccc] text-[16px] mt-3 transition-max-height duration-300 ease-in-out' : 'hidden'}>{faq.answer}</p>
                         </div>
                     ))}
-                </div>
+                </div> */}
             </div>
         </section>
                 
